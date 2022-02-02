@@ -508,6 +508,8 @@ a {
 .modal-close {
   display: block;
   position: absolute;
+  background-position: center;
+  background-size: contain;
 
   width: 30px;
   height: 30px;
