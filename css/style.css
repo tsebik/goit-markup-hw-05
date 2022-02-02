@@ -508,8 +508,6 @@ a {
 .modal-close {
   display: block;
   position: absolute;
-  background-position: center;
-  background-size: contain;
 
   width: 30px;
   height: 30px;
@@ -517,6 +515,11 @@ a {
   border-radius: 50%;
 
   background-color: #ffffff;
+}
+
+.modal-close-svg {
+  display: block;
+  background-position: center;
 }
 
 /* footer */
